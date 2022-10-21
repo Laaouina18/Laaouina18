@@ -1,24 +1,6 @@
-- 👋 Hi, I’m Nouhaila Laaouina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-
---->
-
-Laaouina Nouhaila
-#3952
-
-﻿
-<h1 align="center">Hi 👋, I'm Zouhair Begdar</h1>
+<h1 align="center">Hi 👋, I’m Nouhaila Laaouina</h1>
 <h3 align="center">I'm FullStack developer from Morocco</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=begdar8zouhair&label=Profile%20views&color=0e75b6&style=flat" alt="begdar8zouhair" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **php**
 
