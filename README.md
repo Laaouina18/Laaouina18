@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/laaouina-nouhaila-59757a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laaouina-nouhaila-59757a254/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100012899328699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012899328699" height="30" width="40" /></a>
-<a href="nstagram.com/nouha5859/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nstagram.com/nouha5859/?hl=fr" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nouha5859/?hl=fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nouha5859/?hl=fr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
