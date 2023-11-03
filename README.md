@@ -18,6 +18,18 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
+    <a href="https://en.wikipedia.org/wiki/API" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="api" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/rest-api.png" alt="rest-api" width="40" height="40"/>
+  </a>
+    <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/livewire/livewire/main/.github/assets/logo.png" alt="livewire" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://laravel.com/img/favicon/favicon.ico" alt="laravel" width="40" height="40"/>
+  </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a> 
