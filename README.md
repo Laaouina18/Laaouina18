@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I’m Nouhaila Laaouina</h1>
-<h3 align="center">I'm FullStack developper from Morocco</h3>
+<h3 align="center">I'm FullStack developer from Morocco</h3>
 
 
 <h3 align="left">Connect with me:</h3>
